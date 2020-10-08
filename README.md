@@ -1,5 +1,3 @@
-# ProgrammingAssignment3_MySolution
-
 ### Introduction
 Hi everyone this is my third R Project and took me a really long while!  Here, I present my solutions 
 for Programming Assignment 3 in JHU's coursera course "R Programming".  In this project, I examined hospital
